@@ -97,7 +97,7 @@
 
         failure {
 
-            echo 'Pipeline failed !' "aborted--hgghghhhh"
+            echo 'Pipeline failed !' 
 
         }
 
